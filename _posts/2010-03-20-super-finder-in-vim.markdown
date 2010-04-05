@@ -13,9 +13,10 @@ One killer feature of TextMate, and borrowed by many other IDEs later, is very c
 I found this feature is pretty useful and then started to think how to clone it within vim. After some experiments, I managed to do it! 
 
 To make this feature happen in vim, you need following stuffs: 
-  * [vim][] off course
-  * [fuzzyfinder.vim][]
-  * [Exuberant Ctags][]
+
+* [vim][] off course
+* [fuzzyfinder.vim][]
+* [Exuberant Ctags][]
 
 Fuzzyfinder.vim is a very powerful vim plugin, in fact, if I only can select one vim plugin that is must-have for me, I will choose this one. There are many features in fuzzyfinder, but largely, it will match user's input against files, directors, buffers, tags in fuzzy way. 'Fuzzy' means if you input 'abc' in fuzzyfinder, fuzzyfinder will expand it to '*a*b*c*' and provide candicates list that match the fuzzy pattern '*a*b*c*'. 
 
