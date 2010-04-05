@@ -51,3 +51,4 @@ Now I am not jealousy at TextMate any more :)
 [fuzzyfinder.vim]: http://www.vim.org/scripts/script.php?script_id=1984
 [Exuberant Ctags]: http://ctags.sourceforge.net/ 
 [ftags.sh]: http://github.com/linsong/dailyconfig/raw/master/mytools/ftags.sh
+[vim]: http://www.vim.org
