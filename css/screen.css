@@ -51,6 +51,10 @@ table {
   font: 100%;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -72,6 +76,10 @@ ul.posts {
     font-size: 80%;
   }
 
+  #main  {
+    float:left;
+    width:550px;
+  }
 /*****************************************************************************/
 /*
 /* Site
@@ -81,9 +89,10 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 40em;
+  /*width: 40em;*/
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  width: 800px;
 }
 
 .title {
@@ -195,3 +204,15 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+/*****************************************************************************/
+/*
+/* Sidebar
+/*
+/*****************************************************************************/
+#sidebar {
+  float:right;
+  font-size:100%;
+  width:200px;
+}
+
