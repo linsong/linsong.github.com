@@ -12,6 +12,10 @@ One killer feature of TextMate, and borrowed by many other IDEs later, is very c
 
 I found this feature is pretty useful and then started to think how to clone it within vim. After some experiments, I managed to do it! 
 
+Here is how it looks like: 
+
+![vim super finder in action](http://linsong.s3.amazonaws.com/screenshots/vim_super_finder.png "vim super finder in action").
+
 To make this feature happen in vim, you need following stuffs: 
 
 * [vim][] off course
